@@ -18,24 +18,3 @@ In the Terminal:
 ```bash
 docker compose up --build --force-recreate
 ```
-</details> <details> <summary> <h2> Dark Mode (P3AO3) : </h2></summary>
-
-<h3> Description: </h3>
-
-```bash
-Dark mode is an additional theme that allows users to enjoy our website without added strain 
-on their eyes, especially during low-light conditions.
-```
-
-<h3> Testing Procedure: </h3>
-
-```bash
-1. Run the general testing procedure in "How to Locally Run:" and navigate to localhost:8080.
-2. Click on the Dark Mode button and verify your screen is now displaying a dark mode.
-3. Click on the Light Mode button and verify your screen has gone back to light mode.
-4. Click on another restaurant page and repeat steps 2 and 3.
-5. Click on the Dark Mode button again.
-6. Next, click on another restaurant page and ensure you are still displaying dark mode.
-7. Login and Register an account.
-8. Once logged in, repeat steps 1 through 5.
-```
