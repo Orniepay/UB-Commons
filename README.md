@@ -1,6 +1,6 @@
 # UB Commons
 ### Framework: Flask / Python
-This repository contains the necessary files to launch our web application. Click on the drop-down arrows to get more information on each Project Part or Testing procedure. The publicly available deployment is at [ubcommons.com](https://ubcommons.com "Visit our website"). 
+This repository contains the necessary files to launch our web application. Click on the drop-down arrows to get more information on how to run our project locally. The publicly available deployment is at [ubcommons.com](https://ubcommons.com "Visit our website"). 
 
 ![UBeats Overview](static/video/docker.gif)
 
